@@ -6,7 +6,7 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Games/Toss/Toss.unity
+    path: Assets/Games/LuckeyToss/Toss.unity
     guid: 3c564cbf8d0c6174686a3f81e0666d37
   m_configObjects:
     com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: 6efe93fe795df694d92e3c7e7d0711e8, type: 2}
